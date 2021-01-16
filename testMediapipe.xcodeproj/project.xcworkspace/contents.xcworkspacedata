@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../../mediapipe-0.8.2/mediapipe/examples/ios/faceeffectframework"
+      name = "faceeffectframework">
+      <FileRef
+         location = "group:FaceEffect.h">
+      </FileRef>
+      <FileRef
+         location = "group:FaceEffect.mm">
+      </FileRef>
+      <FileRef
+         location = "group:BUILD">
+      </FileRef>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
